@@ -1,67 +1,67 @@
 #EXTM3U
 #EXT-X-APP APTV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/1229px-Al_Jazeera.svg.png" group-title="未分类",Al Jazeera
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/1229px-Al_Jazeera.svg.png" group-title="US-TV",Al Jazeera
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="US-TV",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/500px-CNN_Logo_%282014%29.svg.png" group-title="未分类",CNN US
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/500px-CNN_Logo_%282014%29.svg.png" group-title="US-TV",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" group-title="MoveOnJoy+",FOX NEWS CHANNEL
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" group-title="US-TV",FOX NEWS CHANNEL
 http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/500px-MS_NOW_logo.svg.png" group-title="未分类",MSNBC
+#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/500px-MS_NOW_logo.svg.png" group-title="US-TV",MSNBC
 http://nocable.cc:8080/vN9EAc/559574/21376
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NBC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/500px-WNBC_2023.svg.png" group-title="MoveOnJoy+",NBC New York
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NBC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/500px-WNBC_2023.svg.png" group-title="US-TV",NBC New York
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/500px-KNBC_2023.svg.png" group-title="未分类",NBC Los Angeles
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/500px-KNBC_2023.svg.png" group-title="US-TV",NBC Los Angeles
 http://nocable.cc:8080/vN9EAc/559574/120656
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/WCBS-TV_logo_%282023%29.svg/500px-WCBS-TV_logo_%282023%29.svg.png" group-title="TV",CBS New York
+#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/WCBS-TV_logo_%282023%29.svg/500px-WCBS-TV_logo_%282023%29.svg.png" group-title="US-TV",CBS New York
 http://nocable.cc:8080/91161088/91161088/120749
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBS_LA_logo.svg/500px-CBS_LA_logo.svg.png" group-title="未分类",CBS Los Angeles
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBS_LA_logo.svg/500px-CBS_LA_logo.svg.png" group-title="US-TV",CBS Los Angeles
 http://nocable.cc:8080/vN9EAc/559574/121234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="未分类",ABC New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="US-TV",ABC New York
 http://nocable.cc:8080/vN9EAc/559574/121139
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg/1200px-KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg.png" group-title="未分类",ABC Los Angeles
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg/1200px-KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg.png" group-title="US-TV",ABC Los Angeles
 http://nocable.cc:8080/vN9EAc/559574/120857
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/2560px-Fts-new-york-a.svg.png" group-title="未分类",FOX New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/2560px-Fts-new-york-a.svg.png" group-title="US-TV",FOX New York
 http://nocable.cc:8080/vN9EAc/559574/120750
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/2560px-Fts-los-angeles-a.svg.png" group-title="未分类",FOX Los Angeles
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/2560px-Fts-los-angeles-a.svg.png" group-title="US-TV",FOX Los Angeles
 http://nocable.cc:8080/vN9EAc/559574/120655
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="未分类",HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="US-TV",HBO
 http://nocable.cc:8080/vN9EAc/559574/46713
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="未分类",Showtime
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="US-TV",Showtime
 http://nocable.cc:8080/vN9EAc/559574/46214
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="STARZ (EAST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/500px-Starz_2022.svg.png" group-title="MoveOnJoy+",STARZ
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="STARZ (EAST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/500px-Starz_2022.svg.png" group-title="US-TV",STARZ
 http://143.244.60.30/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlus.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/500px-MGM%2B_logo.svg.png" group-title="未分类",MGM+
+#EXTINF:-1 tvg-id="MGMPlus.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/500px-MGM%2B_logo.svg.png" group-title="US-TV",MGM+
 http://nocable.cc:8080/vN9EAc/559574/13214
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="MoveOnJoy+",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="US-TV",CINEMAX
 http://143.244.60.30/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="TV",FX
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="US-TV",FX
 http://nocable.cc:8080/91161088/91161088/46690
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/500px-AMC_logo_2019.svg.png" group-title="TV",AMC
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/500px-AMC_logo_2019.svg.png" group-title="US-TV",AMC
 http://nocable.cc:8080/91161088/91161088/18925
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/500px-TNT_%28TV_Channel%29.svg.png" group-title="TV",TNT
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/500px-TNT_%28TV_Channel%29.svg.png" group-title="US-TV",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/500px-USA_Network_2020.svg.png" group-title="MoveOnJoy+",USA Network
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/500px-USA_Network_2020.svg.png" group-title="US-TV",USA Network
 https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/500px-Paramount_Network_2024.svg.png" group-title="MoveOnJoy+",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/500px-Paramount_Network_2024.svg.png" group-title="US-TV",Paramount Network
 http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="TV",National Geographic
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="US-TV",National Geographic
 http://fl1.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="https://docdog.top/logo/countries/us/smithsonian-channel-us.png" group-title="TV",Smithsonian Channel
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="https://docdog.top/logo/countries/us/smithsonian-channel-us.png" group-title="US-TV",Smithsonian Channel
 http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/500px-Discovery_Channel_-_Logo_2019.svg.png" group-title="MoveOnJoy+",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/500px-Discovery_Channel_-_Logo_2019.svg.png" group-title="US-TV",Discovery Channel
 http://143.244.60.30/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/500px-Science_Channel_2016.png" group-title="TV",Discovery Science
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/500px-Science_Channel_2016.png" group-title="US-TV",Discovery Science
 https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="TV",Animal Planet
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="US-TV",Animal Planet
 http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="MoveOnJoy+",History Channel
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="US-TV",History Channel
 http://143.244.60.30/history_channel/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/500px-ESPN_wordmark.svg.png" group-title="TV",ESPN
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/500px-ESPN_wordmark.svg.png" group-title="US-TV",ESPN
 http://nocable.cc:8080/91161088/91161088/14197
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/500px-ESPN2_logo.svg.png" group-title="TV",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/500px-ESPN2_logo.svg.png" group-title="US-TV",ESPN 2
 http://nocable.cc:8080/91161088/91161088/2210
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/440px-2015_Fox_Sports_1_logo.svg.png" group-title="TV",Fox Sports 1
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/440px-2015_Fox_Sports_1_logo.svg.png" group-title="US-TV",Fox Sports 1
 http://nocable.cc:8080/91161088/91161088/1846
