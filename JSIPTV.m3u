@@ -1,3 +1,4 @@
+# 引用自 https://raw.githubusercontent.com/ldm168168/IPTV-2/refs/heads/main/JSIPTV.m3u，https://gh-proxy.com/代理
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="" group-title="央视频道",CCTV-1 综合
